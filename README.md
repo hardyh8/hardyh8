@@ -22,7 +22,9 @@ I help businesses grow and optimize their operations with custom multi-platform 
 </ul>
 
 ## 🏆 Reviews
-![Testimonials](assets/testimonial0.png)
+<div align="center">
+  <img src="assets/testimonial0.png" alt="Testimonials" />
+</div>
 
 ## 🎯 Languages and Frameworks:
 <div align="center">
